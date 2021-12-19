@@ -1,0 +1,22 @@
+@media (max-width:740px){
+    #nav li{
+        display: block;
+    }
+    #header .search-btn{
+        display: none;
+    }
+    #content .member-on-mobile{
+        width: 100%;
+        margin-top: 30px;
+    }
+    #content .member-img{
+        width: 60%;
+    }
+    .place-items{
+        width: 100%;
+    }
+    .col-full-onmobile {
+        width: 100%;
+        float: none;
+    }
+}
